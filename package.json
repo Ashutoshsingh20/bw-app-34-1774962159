@@ -1,7 +1,7 @@
 {
   "name": "bw-app-34-1774962159",
   "version": "1.0.0",
-  "description": "Onyx Harbor monochrome ops dashboard",
+  "description": "Ion District monochrome ops dashboard",
   "type": "module",
   "scripts": {
     "start": "node server.js"
